@@ -3,6 +3,7 @@ This repository hosts the data and analysis for an investigation into student co
 
 ## Repository Structure
 The project is organized as follows:
+```
 ├── data/
 │   ├── videos/
 │   │   ├── 0-9.m4v
@@ -13,6 +14,7 @@ The project is organized as follows:
 ├── .gitignore
 ├── README.md
 └── confused_students_EEG.ipynb
+```
 
 ## Data
 The `data/` directory contains the raw and demographic information used for this analysis.
